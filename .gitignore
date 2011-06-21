@@ -1,0 +1,14 @@
+**~
+**.pyc
+**._*
+**.DS_Store
+**lextab.py
+**yacctab.py
+**.nfs*
+build*
+.sconf_temp
+.sconsign.dblite
+config.log
+config.py
+**.egg-info
+dist
